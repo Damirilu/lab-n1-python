@@ -1,1 +1,1 @@
-# lab-n1-python
+# lab-n1-python Дамир Жалмагамбетов
